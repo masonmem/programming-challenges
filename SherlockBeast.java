@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class SherlockBeast {
 	public static final int MIN_TESTCASES = 1;
 	public static final int MAX_TESTCASES = 20;
 	public static final int MIN_NUM = 1;
